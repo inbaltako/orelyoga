@@ -188,58 +188,50 @@ export const ARTICLES_DATA: Article[] = [
     },
     content: {
       he: {
-        lead: 'אחרי שעה של תנועה מאומצת, נשימות עמוקות והזעה, מגיע הרגע שכולם מחכים לו - או מנסים לחמוק ממנו. השוואסנה (תנוחת הגופה) נראית לכאורה פשוטה: פשוט לשכב על הגב. אך מתחת לפני השטח, זהו ככל הנראה החלק החשוב ביותר בתרגול.',
+        lead: 'המוזיקה נחלשת, צליל הנשימות המאומצות בחדר מתפוגג אט-אט, והאורות מעומעמים. המורה מבקש/ת לפרוש את הגוף לאורכו של המזרן, להניח לזרועות ליפול לצדדים כשכפות הידיים פונות מעלה, ולעצום עיניים. עבור מתרגלים רבים, זהו הרגע המיוחל של סוף השיעור. אך עבור רבים אחרים – זהו הרגע שבו מתחיל המאבק האמיתי.',
         sections: [
           {
-            heading: 'האתגר של אי-העשייה',
+            heading: 'הפרדוקס של המנוחה בעולם של עשייה מתמדת',
             paragraphs: [
-              'בעולם המודרני, אנו מורגלים לרוץ. העשייה היא המדד להצלחה, והתנועה המתמדת נתפסת כפרודוקטיביות. כשאנחנו סוף סוף עוצרים, המוח שלנו - הרגיל לקצב מסוים - לרוב לא עוצר יחד איתנו. הוא ממשיך לייצר רשימות, דאגות ותוכניות. כאן טמון האתגר האמיתי של השוואסנה: השהייה ללא עשייה.',
+              'בעולם המודרני, אנו מותנים להגדיר את ערכנו דרך התנועה והפרודוקטיביות. אנחנו רצים מפגישה לפגישה, ממשימה למשימה, ואפילו אל תרגול היוגה שלנו אנו מביאים לעיתים את אותה אמביציה הישגית: לעמוד בעוד תנוחה מאתגרת, להגיע עמוק יותר, לפתוח עוד סנטימטר בבית החזה. ואז, בבת אחת ובחוסר פשרות, דורשים מאיתנו לעצור. פשוט לשכב על הגב, ללא יעד, ללא מדד הצלחה, וללא שום דבר להוכיח.',
+              'ברגע שהגוף שוקט, המוח – שהורגל למהירות של מאה קמ״ש – ממשיך לדהור קדימה מכוח האינרציה. פתאום צפות רשימות המכולת, מיילים שטרם נשלחו, שיחות מהעבר ודאגות לגבי המחר. מתרגלים רבים חשים תסכול או אשמה סמויה: "למה אני לא מצליח להירגע?", "למה כולם סביבי שקועים בשלווה מוחלטת ורק אצלי הראש סוער?".',
+              'חשוב להבין שחוסר השקט הזה אינו עדות לכישלון בתרגול; הוא בדיוק המקום שבו התרגול האמיתי מתחיל. המוח נועד לייצר מחשבות בדיוק כפי שהלב נועד לפעום והריאות לנשום. השוואסנה אינה מלחמה להשתקת המחשבות בכוח, אלא אימון עדין וסבלני ביכולת לפתח מערכת יחסים חדשה איתן – להתבונן בהן כפי שמתבוננים בעננים חולפים בשמיים רחבים, מבלי להיסחף אחריהן ומבלי לנסות לגרש אותן.',
             ],
           },
           {
-            heading: 'פיזיולוגיה של מנוחה עמוקה',
+            heading: 'הפיזיולוגיה של הריפוי: מהתשה להזנה תאית',
             paragraphs: [
-              'כשאנו נשכבים בשוואסנה, אנו מאותתים למערכת העצבים המרכזית לעבור ממצב סימפתטי (הילחם או ברח) למצב פאראסימפתטי (נוח ועכל). המעבר הזה חיוני להתאוששות פיזית ומנטלית.',
-              'קצב הלב מאט, לחץ הדם יורד, ורמות הקורטיזול (הורמון הלחץ) צונחות. הגוף מנצל את הזמן הזה כדי להטמיע את התועלות של התרגול הפיזי שקדם לו.',
-            ],
-          },
-          {
-            heading: 'אמנות אי-ההיאחזות',
-            paragraphs: [
-              'לעתים קרובות, אנו שופטים את עצמנו כשהמחשבות נודדות במהלך ההרפיה. אנחנו מתעצבנים על עצמנו שאנחנו לא "רגועים מספיק". אבל המטרה היא לא לעצור את המחשבות - המוח נועד לחשוב, בדיוק כפי שהלב נועד לפעום.',
-              'המטרה היא לשנות את מערכת היחסים שלנו איתן. להתבונן בהן כמו בעננים החולפים בשמיים, מבלי לנסות לשנות או לעצור אותם.',
-              'בפעם הבאה שאתם נשכבים לשוואסנה, נסו להקדיש עוד כמה רגעים כדי להפוך את השהייה לנוחה יותר. השתמשו בכרית מתחת לברכיים כדי לשחרר את הגב התחתון, כסו את העיניים כדי להפחית גירויים ויזואליים, ואפשרו לגוף להפוך כבד, נתמך לחלוטין על ידי האדמה.',
+              'מתחת לפני השטח של השקט הגלוי, מתרחש בגוף תהליך ביולוגי מופלא ומדויק. במהלך שעת התרגול הדינמי, מערכת העצבים הסימפתטית (מנגנון ה-Fight or Flight) פועלת במלוא עוצמתה: הדופק מואץ, הדם מוזרם בעוצמה לשרירי השלד, ורמות האדרנלין והקורטיזול עולות באופן מבוקר כדי לאפשר את המאמץ הפיזי.',
+              'כאשר אנחנו נשכבים בשוואסנה ומאפשרים לנשימה להעמיק ולהאט, אנו שולחים איתות רב-עוצמה לעצב הוואגוס (העצב התועה), המפעיל את המערכת הפאראסימפתטית – מערכת המנוחה, העיכול והשיקום. בבת אחת, קצב הלב מאט, לחץ הדם מתאזן, והשרירים מתחילים לפרוק מתח מיקרוסקופי שנאגר בהם. זהו הזמן שבו הפאסיה (רקמת החיבור העוטפת את כל שרירי ואיברי הגוף) נרפית וסופגת מחדש נוזלים וחומרי הזנה חיוניים.',
+              'מחקרים עכשוויים במדעי המוח מגלים כי השהייה בשוואסנה מעבירה את תדרי הפעילות המוחית מגלי בטא מהירים של ערנות דרוכה אל גלי אלפא ותטא – אותם תדרים ייחודיים המאפיינים מצבי מדיטציה עמוקה ושינה מרפאת. במרחב ייחודי זה מתרחשים תהליכי ריפוי ספונטניים, עיבוד רגשי עמוק ואינטגרציה נוירולוגית. ללא שלב זה, התרגול הפיזי נותר מקוטע, והגוף מחמיץ את ההזדמנות להטמיע את התועלות העמוקות של התנוחות שבוצעו.',
+              'המשמעות המילולית של המילה שוואסנה בסנסקריט היא "תנוחת הגופה" (שבא = גופה, אסנה = תנוחה). השם הזה, שעשוי להישמע מרתיע במבט ראשון, נושא בחובו חוכמה פילוסופית עתיקה: זוהי הזמנה לתרגל את מות האגו, מות הצורך בשליטה, ומות הרצון התמידי לנהל את המציאות. לשכב על המזרן ולהרגיש כיצד כוח הכבידה של כדור הארץ תומך בכל איבר בגוף – מהעקבים, דרך האגן והשכמות, ועד לחלק האחורי של הגולגולת.',
+              'בפעם הבאה שאתם נשכבים בסוף התרגול, תנו לעצמכם את המתנה של כניעה מוחלטת. כסו את העיניים בבד רך כדי להפחית גירויים ויזואליים, הניחו כרית תומכת תחת הברכיים כדי לשחרר את הגב התחתון, ונשמו עמוק אל תוך האדמה. משם, מהמקום השקט והשלם הזה, תוכלו לחזור אל העולם מלאי חיוניות, צלילות ושלום פנימי.',
             ],
           },
         ],
-        quote: 'הגמישות האמיתית אינה היכולת לגעת בבהונות, אלא היכולת לאפשר למחשבות לחלוף מבלי להיאחז בהן.',
       },
       en: {
-        lead: 'After an hour of rhythmic breath, physical heat, and challenging postures, comes the moment we often anticipate or unintentionally resist. Savasana (corpse pose) seems deceptively simple: merely lying on the earth. Yet beneath the surface, it is arguably the most vital phase of whole-body integration.',
+        lead: 'The music softens, the collective cadence of breath fades into a gentle hum, and the studio lights dim to a warm glow. The teacher invites you to lengthen your body across the mat, let your arms fall open with palms facing upward, and close your eyes. For many practitioners, this is the long-awaited sanctuary at the end of class. Yet for many others, this is where the real practice truly begins.',
         sections: [
           {
-            heading: 'The Challenge of Non-Doing',
+            heading: 'The Paradox of Rest in an Unstoppable World',
             paragraphs: [
-              'In modern living, we are conditioned for constant motion. Output is perceived as worth, and uninterrupted effort as productivity. When we finally stop, our mind continues racing, producing lists and anxieties. Here lies the genuine art of Savasana: being without doing.',
+              'In contemporary life, we are systematically conditioned to measure our worth through momentum, output, and productivity. We rush from meeting to meeting, chore to chore, and all too often, we bring that same striving mentality onto the yoga mat: pushing to hold one more posture, reach a little deeper, or open another fraction of an inch in the chest. And then, abruptly and without negotiation, we are asked to stop. Simply lie on our backs with no destination, no scorecard, and nothing to prove.',
+              'The moment the physical body ceases motion, the mind — accustomed to highway speeds — continues hurtling forward by sheer inertia. Grocery lists surface, unwritten emails flood the consciousness, past conversations echo, and worries about tomorrow demand attention. Practitioners frequently experience subtle guilt or frustration: "Why can’t I just relax?", "Why does everyone else look completely at peace while my mind is racing?".',
+              'It is essential to understand that this internal restlessness is not a sign of failure; it is precisely the fertile ground where conscious awareness takes root. The brain produces thoughts just as the heart beats and the lungs breathe. Savasana is not a forceful battle to silence the mind, but a patient and compassionate discipline in learning not to cling to thoughts — observing them like clouds drifting across an infinite sky, neither chasing them nor pushing them away.',
             ],
           },
           {
-            heading: 'The Physiology of Deep Recovery',
+            heading: 'The Physiology of Renewal: From Exhaustion to Cellular Healing',
             paragraphs: [
-              'As we settle into stillness, we signal our central nervous system to shift from sympathetic (fight-or-flight) to parasympathetic (rest-and-digest) dominance.',
-              'Heart rate decelerates, blood pressure softens, and cortisol levels descend. The muscular and fascial networks absorb the neuro-motor benefits cultivated during the active practice.',
-            ],
-          },
-          {
-            heading: 'The Art of Non-Clinging',
-            paragraphs: [
-              'Practitioners often feel frustration when thoughts wander during savasana. But the goal was never to forcefully empty the mind — the brain thinks just as the lungs breathe.',
-              'The true practice is relating to our thoughts like drifting clouds across an expansive sky, without grasping or pushing away.',
-              'Next time you recline into Savasana, place a supportive bolster under your knees, soften your breath, and let the earth fully carry your weight.',
+              'Beneath the tranquil surface of outer stillness, an intricate biological transformation unfolds within the body. Throughout an active dynamic sequence, the sympathetic nervous system (the fight-or-flight mechanism) operates at elevated levels: cardiac output increases, blood is directed toward major muscle groups, and cortisol and adrenaline levels rise constructively to sustain exertion.',
+              'When we settle into Savasana and allow our breathing rhythm to lengthen and deepen, we send an unmistakable signal to the vagus nerve, initiating parasympathetic dominance — the state of resting, digesting, and cellular regeneration. Heart rate eases, arterial pressure softens, and muscles release micro-tensions accumulated deep within postural fibers. This is also when the fascial web — the continuous connective matrix embracing every organ and muscle — relaxes and reabsorbs vital moisture and nourishment.',
+              'Contemporary neuroscience demonstrates that sustained stillness shifts brainwave frequencies from rapid Beta alertness down to serene Alpha and Theta rhythms — the precise neuro-correlates of deep meditation, emotional integration, and somatic repair. Without this dedicated assimilation window, the physical practice remains incomplete, depriving the nervous system of the opportunity to integrate the sequence’s therapeutic gifts.',
+              'In Sanskrit, the literal translation of Savasana is "Corpse Pose" (Sava meaning corpse, Asana meaning posture). While the name may initially seem stark, it embodies profound yogic wisdom: an invitation to surrender the ego, let go of the compulsion to manage every outcome, and release the urge to control reality. It is the practice of lying back and trusting gravity to hold every vertebra, limb, and muscle without effort.',
+              'The next time you lie down at the end of practice, grant yourself the grace of total surrender. Place a soft eye pillow over your brow to quiet sensory input, nestle a supportive bolster under your knees to soften the lumbar spine, and allow the earth to carry your full weight. From that quiet, unwavering center, you return to the world recharged with clarity, presence, and genuine inner peace.',
             ],
           },
         ],
-        quote: 'True flexibility is not about touching your toes, but learning to let thoughts pass without clinging to them.',
       },
     },
   },
@@ -266,23 +258,43 @@ export const ARTICLES_DATA: Article[] = [
     },
     content: {
       he: {
-        lead: 'היציבה שלנו אינה רק עניין אסתטי או מבני; היא השתקפות ישירה של המצב הרגשי שלנו, והאופן בו אנו תופסים את מקומנו בעולם.',
+        lead: 'היציבה שלנו אינה רק עניין מכני של שלד ושרירים; היא שפת הגוף הבלתי מדוברת שדרכה אנו מתקשרים עם העולם, והאופן שבו מערכת העצבים שלנו מפרשת את המציאות בכל רגע נתון. האופן שבו אנו יושבים, עומדים והולכים הוא למעשה המראה הרגשית של חיינו.',
         sections: [
           {
-            heading: 'חיבור בין גוף לרגש',
+            heading: 'הדיאלוג הסומטי בין עמוד השדרה למצב הרוח',
             paragraphs: [
-              'כשאנו מכווצים או שפופים, הנשימה נהיית שטחית ומערכת העצבים מקבלת איתות של דחק. כשאנו מיישרים את עמוד השדרה ברכות, החזה נפתח והנשימה מתרחבת.',
+              'כולנו מכירים את התחושה של יום קשה שבו הראש צונח מטה, הכתפיים מתעגלות פנימה ובית החזה קורס. זהו אינו רק שינוי אנטומי מקומי, אלא מנגנון הגנה פרימיטיבי שבו הגוף מנסה לגונן על הלב והאיברים הפנימיים מפני איום חיצוני. כאשר היציבה השפופה הזו הופכת להרגל קבוע מול מחשבים ומסכים, מערכת העצבים מקבלת שדר בלתי פוסק של עייפות, מגננה ודחק.',
+              'במצב של קריסה גופנית, הסרעפת נדחסת, נפח הנשימה מצטמצם ביותר משלושים אחוזים, והגוף מוזן בפחות חמצן. לעומת זאת, כאשר אנו מזקפים את עמוד השדרה ברכות ומרווחים בין החוליות, הסרעפת נעה בחופשיות, זרימת הדם למוח מתגברת, ורמות האנרגיה עולות באופן מיידי. מחקרים בתחום הפסיכו-ביולוגיה מאשרים כי יציבה פתוחה מעלה את רמות הביטחון העצמי ומפחיתה משמעותית תחושות של חרדה ודכדוך.',
+              'אך חשוב לדייק: יציבה מיטיבה אינה עמידה צבאית נוקשה או מאומצת. יציבה נכונה ביוגה היא שילוב עדין בין "סטהירה" (יציבות ומבנה) לבין "סוקהה" (קלות ורכות). זוהי היכולת למצוא את המרכז שבו השלד נושא את משקל הגוף ביעילות, כך שהשרירים יכולים להירגע ולא להישאר דרוכים ללא צורך.',
+            ],
+          },
+          {
+            heading: 'ממזרן היוגה אל שולחן העבודה: יציבה כמדיטציה חיה',
+            paragraphs: [
+              'בתרגול תנוחות העמידה ביוגה (כמו טדאסנה או ויראבהדראסנה), אנו לומדים להרגיש את כפות הרגליים משתרשות באדמה, את קשתות כף הרגל מתרוממות ואת קודקוד הראש צומח מעלה. המיומנות הזו אינה אמורה להישאר בתוך גבולות הסטודיו; היא העוגן המשמעותי ביותר שאנו יכולים לקחת איתנו אל חיי היומיום.',
+              'במהלך יום עבודה מול המחשב, שימו לב לרגעים שבהם הראש נמשך קדימה אל המסך והלסת ננעלת. במקום להתאמץ להתיישר בכוח, קחו נשימה עמוקה אחת: הניחו לשתי עצמות הישיבה להיטמן עמוק בכיסא, שחררו את מפרקי הירכיים, גלגלו בעדינות את הכתפיים לאחור ואפשרו לעורף להתארך כחוט משי דק.',
+              'כאשר היציבה שלנו מודעת ונינוחה, אנו נוכחים בכל מפגש, שיחה ומשימה מתוך עוצמה שקטה. הגוף אינו נלחם עוד בכוח הכבידה, אלא נתמך על ידו – וזהו הבסיס העמוק ביותר לבריאות גופנית, חיוניות ושלום פנימי.',
             ],
           },
         ],
       },
       en: {
-        lead: 'Our posture is not merely mechanical; it directly shapes our neurobiology, emotional equilibrium, and how we meet everyday experiences.',
+        lead: 'Our physical posture is never merely a biomechanical arrangement of bones and muscles; it is an unspoken somatic language through which our nervous system interprets reality and projects presence into the world. How we sit, stand, and walk is, in truth, the emotional architecture of our daily lives.',
         sections: [
           {
-            heading: 'The Mind-Spine Link',
+            heading: 'The Somatic Dialogue Between Spine and Psyche',
             paragraphs: [
-              'When the chest collapses, diaphragm movement diminishes. Elevating the crown of the head creates room for breath and mental clarity.',
+              'We are all familiar with the physical imprint of a grueling day: the chin juts forward, the shoulders round inward, and the chest cavity softly caves. This is not merely a localized anatomical shift; it is an ancient somatic reflex where the organism curls inward to shield the heart and vulnerable viscera from perceived threats. When this collapsed posture becomes chronic in our screen-centric culture, the autonomic nervous system receives an unending low-grade distress signal.',
+              'In this compressed stance, the diaphragm is physically obstructed, reducing vital lung capacity by up to thirty percent and starving brain tissues of oxygen. Conversely, when we gently lengthen the spine with spacious ease, the diaphragm glides effortlessly, cerebral perfusion increases, and cognitive stamina rebounds immediately. Psychobiological studies confirm that an upright, receptive posture downregulates cortisol while cultivating emotional resilience.',
+              'Crucially, mindful posture is not about rigid military stiffness or aggressive chest puffing. In classical yoga, true alignment harmonizes "Sthira" (grounded stability) and "Sukha" (spacious ease). It is discovering the sweet vertical axis where the skeletal framework effortlessly bears gravitational load, allowing surrounding muscular layers to soften rather than maintain exhausting hyper-vigilance.',
+            ],
+          },
+          {
+            heading: 'From the Mat to the Desk: Posture as Living Mindfulness',
+            paragraphs: [
+              'In foundational standing postures such as Tadasana (Mountain Pose), we train our feet to root firmly into the earth, our inner arches to rebound upward, and the crown of the head to float toward the sky. This embodied intelligence is designed to travel far beyond the studio floor — it is a portable sanctuary we carry everywhere.',
+              'Throughout long working sessions at your desk, notice when your gaze pulls your neck toward the monitor and your jaw clenches under digital urgency. Rather than stiffening into an artificial pose, pause for one conscious breath: feel both sit-bones ground evenly into your chair, soften your hip creases, let your shoulder blades melt down your back, and let the back of your neck lengthen effortlessly.',
+              'When our physical posture is anchored in relaxed integrity, we meet every email, conversation, and challenge from a place of unshakable composure. The body stops fighting gravity and begins dancing with it — creating a sustainable foundation for lifelong vitality and deep inner quiet.',
             ],
           },
         ],
@@ -312,23 +324,43 @@ export const ARTICLES_DATA: Article[] = [
     },
     content: {
       he: {
-        lead: 'האופן שבו אנו מבלים את 30 הדקות הראשונות של היום קובע את הטון לכל מה שיבוא אחריו.',
+        lead: 'האופן שבו אנו פוגשים את שלושים הדקות הראשונות של היום מכתיב את הטון, הקצב והצלילות של כל השעות שיבואו לאחריו. בעולם שבו השעון המעורר בטלפון הופך מיד לזרם אינסופי של התראות וחדשות, הבחירה לפתוח את הבוקר בהאטה ובכוונה היא מעשה של ריבונות פנימית וריפוי.',
         sections: [
           {
-            heading: 'נשימה לפני מסכים',
+            heading: 'לפני המסכים: הנשימה כעוגן ראשוני',
             paragraphs: [
-              'הקדשת 5 דקות של נשימה מודעת ושתיית מים חמימים לפני הצצה בטלפון מייצרת עוגן פנימי חזק שמלווה אותנו לאורך היום כולו.',
+              'הרגעים הראשונים שלאחר היקיצה מאופיינים במצב תודעתי ייחודי הנקרא מצב היפנופומפי (המעבר הרך בין שינה לערות). במרחב ביניים זה, התת-מודע שלנו פתוח ורגיש במיוחד להשפעות סביבתיות. כאשר הפעולה הראשונה שלנו היא הושטת יד אל הסמארטפון, אנו מציפים את המוח באופן מיידי בדופמין מהיר, התראות מלחיצות ודרישות של אחרים – ומזריקים לגוף מנת מתח עוד לפני שהספקנו לפקוח עיניים במלואן.',
+              'במקום זאת, נסו להעניק לעצמכם לפחות רבע שעה של מרחב שקט ומוגן ממסכים. שבו על קצה המיטה או על כרית מדיטציה, הניחו יד אחת על הלב ויד שנייה על הבטן, וקחו חמש נשימות עמוקות ואיטיות. הרגישו את מגע האוויר הקריר הנכנס בנחיריים ואת חמימות האוויר הנפלט. הנשימה המודעת הזו מאותתת למערכת העצבים שהיום מתחיל ממקום של ביטחון ושלווה, ולא ממקום של בהילות ומגננה.',
+              'לאחר מכן, שתו כוס גדולה של מים פושרים או תה צמחים מרגיע. שטיפת המערכת במים חמימים לאחר שעות הלילה מעוררת בעדינות את מערכת העיכול, מלחלחת את רקמות הגוף ומכינה אותנו לתנועה קלה.',
+            ],
+          },
+          {
+            heading: 'תנועה רכה ונוכחות חושית: טקס ההתעוררות',
+            paragraphs: [
+              'אינכם צריכים להקדיש שעה שלמה לתרגול אינטנסיבי כדי להפיק תועלת משגרת בוקר. לעיתים קרובות, חמש עד עשר דקות של תנועה מתונה – כמו מתיחת חתול-פרה על ארבע, פיתול עדין של עמוד השדרה ופתיחה של מפרקי הירכיים – מספיקות כדי לשחרר את הנוקשות הטבעית שהצטברה בשעות השינה.',
+              'במהלך התנועה, העבירו את תשומת הלב לחושים: הקשיבו לצלילי הבוקר מחוץ לחלון, התבוננו בגווני האור המשתנים על הקיר, והרגישו את מגע הבד על העור. הנוכחות החושית הפשוטה הזו מחברת אותנו אל הכאן ועכשיו ומונעת מהתודעה לרוץ קדימה אל מטלות היום.',
+              'כאשר תצאו אל יומכם מתוך בוקר שהתחיל בהקשבה ובנשימה, תגלו שאתם פחות נסחפים לסערות חיצוניות ופועלים מתוך מרכז שקט, מאוזן ומלא אנרגיה חיונית.',
             ],
           },
         ],
       },
       en: {
-        lead: 'The first thirty minutes after waking establish the nervous system baseline for the entire day.',
+        lead: 'The manner in which we navigate the first thirty minutes of the day establishes the neurochemical cadence, clarity, and nervous system baseline for all the hours that follow. In a culture where the phone alarm instantly cascades into a torrent of notifications and headlines, choosing to open the morning with deliberate slowness is a quiet act of personal sovereignty and profound somatic healing.',
         sections: [
           {
-            heading: 'Breath Before Screens',
+            heading: 'Before the Screens: The Breath as Primary Anchor',
             paragraphs: [
-              'Five minutes of deep diaphragmatic breathing and warm hydration ground your awareness before outside demands rush in.',
+              'The delicate window immediately following awakening is known as the hypnopompic state — a permeable threshold between deep sleep and alert consciousness. In this liminal space, our subconscious mind is exceptionally receptive to sensory impressions. Reaching reflexively for a smartphone floods the newly awakened brain with sudden dopamine surges, urgent emails, and societal anxieties, immediately thrusting the nervous system into chronic reactivity before your feet have even touched the floor.',
+              'Instead, gift yourself a sacred buffer of screen-free stillness. Sit comfortably at the edge of your bed or on a floor cushion, rest one hand over the center of your chest and the other across the belly, and take five slow, oceanic breaths. Feel the cool air brush past the nostrils on inhalation and the soothing warmth of release on exhalation. This rhythmic breath informs your autonomic nervous system that the morning begins in safety, not survival.',
+              'Follow this with a tall glass of warm water with lemon or a fragrant herbal tea. Hydrating the tissues after hours of nocturnal fasting gently awakens the digestive tract, clears sluggishness, and lubricates the musculoskeletal system for daily movement.',
+            ],
+          },
+          {
+            heading: 'Gentle Movement and Sensory Presence: The Awakening Sequence',
+            paragraphs: [
+              'A transformative morning ritual does not require an hour of exhaustive physical exertion. Often, five to ten minutes of fluid, gentle movement — a few slow rounds of Cat-Cow, a soft seated spinal twist, and an expansive child’s pose — are all that is required to awaken synovial fluid in the joints and release connective tissue stiffness.',
+              'While moving, invite your attention to anchor in immediate sensory reality: listen to early morning birdsong outside the window, watch the golden shifting angles of natural light on the floor, and feel the solid ground beneath your body. This sensory attunement roots consciousness in the present, preventing the mind from racing into tomorrow’s deadlines.',
+              'When you step into the world from a morning nurtured with intention, you move through daily demands not as a frantic reactor, but anchored in quiet, resilient composure.',
             ],
           },
         ],
@@ -358,23 +390,43 @@ export const ARTICLES_DATA: Article[] = [
     },
     content: {
       he: {
-        lead: 'אפריגרהה, העיקרון החמישי ביאמה בפילוסופיה היוגית, מלמד אותנו לשחרר אחיזה במה שאינו משרת אותנו עוד.',
+        lead: 'מתוך חמשת עקרונות היאמה בפילוסופיית היוגה הקלאסית, אפריגרהה (אי-היאחזות או שחרור הרכושנות) הוא אולי העיקרון המאתגר והמשחרר ביותר. אין מדובר בפרישות סגפנית מהעולם או באדישות רגשית, אלא בהבנה עמוקה שהאחיזה הנואשת בדברים, באנשים ובדעות היא המקור העיקרי לסבלנו.',
         sections: [
           {
-            heading: 'לשחרר כדי לקבל',
+            heading: 'הפרדוקס של האגרוף הקפוץ',
             paragraphs: [
-              'כשכף היד קפוצה באגרוף, דבר אינו יכול להיכנס לתוכה. כשאנו פותחים את היד, המרחב מתחדש.',
+              'בטבעו של האדם קיים דחף עמוק לאחוז. אנו אוחזים בחפצים מתוך אשליה של ביטחון, אנו אוחזים בדעות שלנו מתוך צורך להגן על הזהות, ואנו אוחזים ברגעים יפים מתוך פחד שהם ייעלמו. אך כפי שאומר המשל היוגי העתיק: כאשר כף היד קפוצה בחוזקה באגרוף, לא רק שאיננו יכולים לקבל שום דבר חדש, אלא שהיד כולה נעשית נוקשה, כואבת ומותשת.',
+              'אי-היאחזות (אפריגרהה) אינה פסיביות או חוסר אכפתיות. להפך: זהו האומץ לאהוב באופן מלא, ליצור בעוצמה וליהנות מהעולם, תוך הכרה בעובדה שהכל נמצא בזרימה מתמדת. כשאנו פותחים את כף היד, אנו מאפשרים לרוח החיים לעבור דרכנו בחופשיות. אנו מפסיקים להיאבק בשינויים הטבעיים של המציאות ומוצאים חופש פנימי אמיתי.',
+              'ברמה הגופנית, היאחזות מנטלית מתורגמת ישירות למתח שרירי: כתפיים מורמות, לסת נעולה ונשימה עצורה. כאשר אנו מתרגלים שחרור רצוני של האחיזה, הגוף מגיב בהרפיה עמוקה, ומערכת העצבים משתחררת ממצב של מגננה מתמדת.',
+            ],
+          },
+          {
+            heading: 'לשחרר על המזרן ובחיים: לזרום עם המציאות',
+            paragraphs: [
+              'על מזרן היוגה, אפריגרהה מתבטאת בוויתור על הרצון לבצע את "התנוחה המושלמת". מתרגלים רבים נאחזים בדימוי ויזואלי של איך תנוחה אמורה להיראות, ודוחפים את גופם מעבר לגבולות הבריאים שלו מתוך הישגיות ואגו. תרגול אותנטי מזמין אותנו לשחרר את הציפייה, להקשיב לגוף בכנות כפי שהוא ברגע זה, ולמצוא שלמות גם בתוך חוסר השלמות.',
+              'בחיי היומיום, אפריגרהה מזמינה אותנו לפנות מקום – לפנות חפצים מיותרים שמעמיסים על הבית, לשחרר טינות ישנות שמעכירות את הלב, ולוותר על הצורך להיות תמיד צודקים בוויכוחים. כל ויתור כזה אינו אובדן, אלא יצירה של חלל פנוי שבו יכולים לצמוח רעיונות חדשים, קשרים כנים ושמחה טבעית.',
+              'בפעם הבאה שאתם מרגישים תסכול או חרדה, עצרו לרגע ושאלו את עצמכם: "במה אני אוחז/ת כרגע שאינו משרת אותי עוד?". פתחו את כפות הידיים, נשמו עמוק, והרשו לעצמכם לשחרר – מתוך ידיעה שלמה שמה שבאמת שלכם יישאר, ומה שמשתחרר מפנה מקום לטוב גדול יותר.',
             ],
           },
         ],
       },
       en: {
-        lead: 'Aparigraha, the fifth Yama in Patanjali’s classical yoga sutras, illuminates the power of letting go of clutter and possessiveness.',
+        lead: 'Among the five Yamas of classical yogic philosophy, Aparigraha (non-grasping, non-possessiveness, or the art of letting go) is perhaps the most demanding yet profoundly liberating discipline. It is neither ascetic denial nor emotional detachment; rather, it is the realization that our compulsive grip on outcomes, possessions, and rigid identities is the true root of internal suffering.',
         sections: [
           {
-            heading: 'Emptying to Receive',
+            heading: 'The Paradox of the Clenched Fist',
             paragraphs: [
-              'A clenched fist cannot receive anything new. Open hands allow breath, change, and renewed vitality to enter.',
+              'Deep within the human psyche lies an instinctual reflex to grasp. We accumulate possessions under the illusion of permanent security, we cling stubbornly to opinions to defend fragile egos, and we cling to joyful experiences out of dread that they will dissolve. Yet as the ancient yogic parable teaches: when the hand is clenched tight in a fist, it cannot receive anything new, and the arm quickly becomes rigid, fatigued, and sore.',
+              'Aparigraha is not apathy or cold indifference. On the contrary, it is the fierce courage to love wholeheartedly, create passionately, and savor the world’s gifts with open eyes, while honoring the sacred impermanence of all things. When we open our hands, life flows through us unimpeded. We cease exhausting ourselves in futile resistance to natural change and step into authentic freedom.',
+              'Somatic physiology demonstrates that mental clutching mirrors directly into muscular holding: tight trapezius muscles, locked temporomandibular jaw joints, and shallow chest breathing. Consciously practicing release triggers immediate neuromuscular decompression, allowing the autonomic nervous system to step down from perpetual vigilance.',
+            ],
+          },
+          {
+            heading: 'Surrender on the Mat and in Life: Trusting the Flow',
+            paragraphs: [
+              'On the yoga mat, Aparigraha manifests as releasing the hunger for the "flawless" posture. Practitioners often grasp onto an idealized external aesthetic, overriding their body’s intuitive boundaries out of competitive striving. Authentic practice invites us to surrender performance anxiety, listen honorably to the body as it is today, and discover grace within imperfection.',
+              'Off the mat, Aparigraha invites us to practice intentional decluttering — releasing physical possessions that stagnate our living spaces, forgiving old grievances that burden the heart, and relinquishing the exhausting need to always be right. Every act of letting go is not a deficit; it is the deliberate creation of spaciousness for fresh insights, genuine connections, and quiet joy to blossom.',
+              'The next time you encounter rising anxiety or frustration, pause and gently ask yourself: "What am I clinging to right now that no longer serves my highest peace?". Soften your palms, breathe deeply into your belly, and let go — trusting with quiet faith that what is truly aligned with your path will remain, and what departs creates room for greater light.',
             ],
           },
         ],
