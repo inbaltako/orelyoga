@@ -32,10 +32,10 @@ export const About: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-start">
           
           {/* Left Column: Image Placeholder & Credentials (5 cols) */}
-          <div className="lg:col-span-5 flex flex-col gap-6 sticky top-28">
+          <div className="lg:col-span-5 flex flex-col gap-6 lg:sticky lg:top-28">
             
             {/* Orel's Image Placeholder */}
-            <div className="w-full aspect-[4/5] rounded-3xl overflow-hidden bg-gradient-to-br from-surface-container via-surface-container-low to-surface-container-high border border-outline/15 shadow-soft relative flex flex-col items-center justify-center p-8 text-center group">
+            <div className="w-full max-w-md mx-auto lg:max-w-none aspect-[4/5] sm:aspect-[4/3] lg:aspect-[4/5] rounded-3xl overflow-hidden bg-gradient-to-br from-surface-container via-surface-container-low to-surface-container-high border border-outline/15 shadow-soft relative flex flex-col items-center justify-center p-8 text-center group">
               
               {/* Soft decorative background circles */}
               <div className="w-40 h-40 rounded-full bg-secondary/10 absolute -top-10 -right-10 blur-2xl pointer-events-none"></div>

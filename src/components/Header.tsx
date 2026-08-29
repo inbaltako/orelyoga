@@ -119,50 +119,60 @@ export const Header: React.FC = () => {
         </div>
       </div>
 
-      {/* Mobile Drawer Navigation */}
+      {/* Mobile Drawer Navigation with Heavy Full-Screen Blur Backdrop */}
       {mobileMenuOpen && (
-        <div className="lg:hidden fixed inset-x-0 top-full bg-surface-bright/98 backdrop-blur-xl border-b border-outline/10 shadow-xl transition-all animate-fade-in px-6 py-8">
-          <nav className="flex flex-col gap-6 text-center">
-            {navLinks.map((link) => {
-              const isHash = link.to.includes('#');
-              if (isHash) {
+        <>
+          {/* Full-screen heavily blurred backdrop covering the whole page */}
+          <div
+            className="lg:hidden fixed inset-0 top-0 w-screen h-screen bg-background/85 backdrop-blur-2xl z-[-1] transition-opacity duration-300"
+            onClick={() => setMobileMenuOpen(false)}
+            aria-hidden="true"
+          />
+
+          {/* Drawer Menu */}
+          <div className="lg:hidden fixed inset-x-0 top-full bg-surface/95 backdrop-blur-3xl border-b border-outline/10 shadow-2xl transition-all animate-fade-in px-6 py-8 max-h-[calc(100vh-5rem)] overflow-y-auto">
+            <nav className="flex flex-col gap-5 text-center">
+              {navLinks.map((link) => {
+                const isHash = link.to.includes('#');
+                if (isHash) {
+                  return (
+                    <a
+                      key={link.to}
+                      href={link.to}
+                      onClick={() => setMobileMenuOpen(false)}
+                      className="text-xl font-medium text-on-surface hover:text-primary py-2.5 transition-colors"
+                    >
+                      {link.label}
+                    </a>
+                  );
+                }
                 return (
-                  <a
+                  <NavLink
                     key={link.to}
-                    href={link.to}
+                    to={link.to}
                     onClick={() => setMobileMenuOpen(false)}
-                    className="text-lg font-medium text-on-surface hover:text-primary py-2 transition-colors"
+                    className={({ isActive }) =>
+                      `text-xl font-medium py-2.5 transition-colors ${
+                        isActive ? 'text-primary font-bold bg-primary/10 rounded-xl' : 'text-on-surface hover:text-primary'
+                      }`
+                    }
                   >
                     {link.label}
-                  </a>
+                  </NavLink>
                 );
-              }
-              return (
-                <NavLink
-                  key={link.to}
-                  to={link.to}
+              })}
+              <div className="pt-4 border-t border-outline/10 flex flex-col gap-4">
+                <Link
+                  to="/private-sessions"
                   onClick={() => setMobileMenuOpen(false)}
-                  className={({ isActive }) =>
-                    `text-lg font-medium py-2 transition-colors ${
-                      isActive ? 'text-primary font-bold' : 'text-on-surface hover:text-primary'
-                    }`
-                  }
+                  className="w-full py-3.5 bg-primary text-on-primary rounded-full font-label-md text-base uppercase tracking-wider text-center shadow-md hover:bg-primary-container transition-colors"
                 >
-                  {link.label}
-                </NavLink>
-              );
-            })}
-            <div className="pt-4 border-t border-outline/10 flex flex-col gap-4">
-              <Link
-                to="/private-sessions"
-                onClick={() => setMobileMenuOpen(false)}
-                className="w-full py-3 bg-primary text-on-primary rounded-full font-label-md uppercase tracking-wider text-center"
-              >
-                {t('bookClass')}
-              </Link>
-            </div>
-          </nav>
-        </div>
+                  {t('bookClass')}
+                </Link>
+              </div>
+            </nav>
+          </div>
+        </>
       )}
     </header>
   );
