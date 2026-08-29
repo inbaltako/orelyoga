@@ -30,7 +30,7 @@ const ScrollHandler: React.FC = () => {
 export function App() {
   return (
     <LanguageProvider>
-      <Router>
+      <Router basename={import.meta.env.BASE_URL}>
         <ScrollHandler />
         <div className="min-h-screen flex flex-col bg-background text-on-surface">
           <Header />
