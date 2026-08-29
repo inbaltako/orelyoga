@@ -120,17 +120,22 @@ export const Home: React.FC = () => {
           </div>
 
           {/* About Text & Teaching Styles */}
-          <div className="flex-1 flex flex-col gap-8 text-start">
+          <div className="flex-1 flex flex-col gap-6 text-start">
             <div className="flex flex-col gap-4">
               <span className="text-label-md font-label-md text-secondary tracking-widest uppercase font-semibold">
                 {t('aboutSubtitle')}
               </span>
-              <h2 className="font-display text-headline-lg text-on-surface">
-                {t('aboutTitle')}
-              </h2>
               <p className="text-body-lg text-on-surface-variant leading-relaxed">
                 {t('aboutText')}
               </p>
+              
+              <Link
+                to="/about"
+                className="inline-flex items-center gap-2 text-primary font-semibold text-label-md uppercase tracking-wider hover:text-primary-container group transition-colors pt-1"
+              >
+                <span>{t('aboutStoryLink')}</span>
+                <ArrowIcon size={18} className="transition-transform group-hover:translate-x-1 rtl:group-hover:-translate-x-1" />
+              </Link>
             </div>
 
             {/* Styles Grid */}

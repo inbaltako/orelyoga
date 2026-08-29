@@ -4,6 +4,7 @@ import { LanguageProvider } from './context/LanguageContext';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
 import { Home } from './pages/Home';
+import { About } from './pages/About';
 import { PrivateSessions } from './pages/PrivateSessions';
 import { RetreatsWorkshops } from './pages/RetreatsWorkshops';
 import { Blog } from './pages/Blog';
@@ -37,6 +38,7 @@ export function App() {
           <main className="flex-1">
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/about" element={<About />} />
               <Route path="/private-sessions" element={<PrivateSessions />} />
               <Route path="/retreats-workshops" element={<RetreatsWorkshops />} />
               <Route path="/blog" element={<Blog />} />

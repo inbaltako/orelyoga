@@ -29,6 +29,7 @@ export const Header: React.FC = () => {
 
   const navLinks = [
     { to: '/', label: t('home') },
+    { to: '/about', label: t('about') },
     { to: '/private-sessions', label: t('privateSessions') },
     { to: '/retreats-workshops', label: t('retreatsWorkshops') },
     { to: '/blog', label: t('journal') },

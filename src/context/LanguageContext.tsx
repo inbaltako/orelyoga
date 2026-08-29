@@ -13,10 +13,10 @@ const translations: Record<Language, Record<string, string>> = {
   he: {
     // Navigation
     home: 'בית',
+    about: 'אודות',
     privateSessions: 'שיעורים פרטיים',
     retreatsWorkshops: 'ריטריטים וסדנאות',
     journal: 'בלוג ומאמרים',
-    about: 'אודות',
     contact: 'צור קשר',
     bookClass: 'תיאום שיעור',
     bookSessionNow: 'תיאום שיעור עכשיו',
@@ -28,10 +28,27 @@ const translations: Record<Language, Record<string, string>> = {
     bookPrivateSession: 'תיאום שיעור פרטי',
     exploreOfferings: 'לכל הפעילויות',
 
-    // About
-    aboutTitle: 'אודות המורה',
+    // About Page & Section
+    aboutTitle: 'אודות אוראל',
     aboutSubtitle: 'הדרך והפילוסופיה',
+    aboutStoryLink: 'לקריאת הסיפור והפילוסופיה של אוראל',
     aboutText: 'היוגה עבורי היא שפה של הקשבה. דרך תנועה מודעת, נשימה עמוקה ונוכחות מלאה, אנו לומדים לחזור הביתה – אל הגוף שלנו. בשיעורים שלי, אני מזמינה את המתרגלים למרחב בטוח, נטול שיפוטיות, בו אפשר לחקור את הגבולות ברכות ולמצוא יציבות בתוך תנועה. ההוראה שלי משלבת ידע מסורתי עם הבנה מודרנית של אנטומיה ותנועה, ליצירת חוויה שלמה ומעמיקה.',
+    
+    aboutHeroTag: 'הסיפור שלי',
+    aboutHeroTitle: 'למצוא ריפוי ובית בתוך הגוף',
+    aboutHeroSubtitle: 'מסע של החלמה מפציעה, הקשבה סומטית וגילוי השקט הפנימי דרך עולם היוגה.',
+    
+    storyHeading: 'הדרך להחלמה: מהכאב אל הגילוי',
+    storyP1: 'לפני מספר שנים, בעקבות פציעה גופנית משמעותית, מצאתי את עצמי מתמודדת עם מציאות חדשה שבה הגוף – שתמיד היה מקור של חופש ועשייה – הפך מוגבל וכואב. הפעולות הפשוטות ביותר הפכו לאתגר יומיומי, ותחושות של תסכול, חוסר אונים ופחד איימו להשתלט.',
+    storyP2: 'דווקא מתוך המשבר הזה, הגעתי אל היוגה לא כמטרה הישגית או כספורט, אלא כקרש הצלה סומטי ומרחב של הקשבה כנה. למדתי להניח בצד את האמביציה והאגו, ולהתחיל לנוע מתוך כבוד מלא לגבולות הגוף. התנועה האיטית, הדיוק האנטומי והעבודה עם הנשימה החלו בהדרגה לפתוח נתיבים חדשים של ריפוי ברקמות, לחזק את עמוד השדרה ולהרגיע את מערכת העצבים.',
+    storyP3: 'היוגה לא רק ריפאה את הפציעה הפיזית שלי – היא שינתה לחלוטין את האופן שבו אני פוגשת את עצמי ואת החיים. היא לימדה אותי שכאשר אנחנו מפסיקים להילחם בגוף ומקשיבים לו בחמלה, הוא מסוגל לחולל ניסים של התחדשות ושיקום.',
+    
+    philosophyHeading: 'פילוסופיית ההוראה שלי',
+    philosophyP1: 'אני מאמינה שאין שני גופים זהים, ושיוגה אינה מיועדת "להכניס את האדם לתבנית של תנוחה", אלא להתאים את התנוחה למבנה הייחודי של האדם. בהוראה שלי אני משלבת בין המסורת היוגית העתיקה (אסאנה, פראנאיאמה ומדיטציה) לבין עקרונות אנטומיה מודרניים ומניעת פציעות.',
+    philosophyP2: 'בכל שיעור – בין אם זה שיעור פרטי אישי אחד-על-אחד או סדנה קבוצתית – המטרה שלי היא ליצור מרחב בטוח, נטול שיפוטיות ומזמין, שבו תוכלו לנשום עמוק, לפרוק מתחים, ולבנות כוח אמיתי, גמישות ושקט נפשי שילוו אתכם גם מחוץ למזרן.',
+
+    aboutImagePlaceholder: 'תמונת פורטרט של אוראל',
+    aboutImageHint: 'מרחב ייעודי לתמונת פרופיל / הוראה',
     
     // Teaching Styles
     vinyasaTitle: 'Mindful Vinyasa',
@@ -137,10 +154,10 @@ const translations: Record<Language, Record<string, string>> = {
   en: {
     // Navigation
     home: 'Home',
+    about: 'About',
     privateSessions: 'Private Sessions',
     retreatsWorkshops: 'Retreats & Workshops',
     journal: 'Journal & Articles',
-    about: 'About',
     contact: 'Contact',
     bookClass: 'Book a Class',
     bookSessionNow: 'Book Session Now',
@@ -152,10 +169,27 @@ const translations: Record<Language, Record<string, string>> = {
     bookPrivateSession: 'Book Private Session',
     exploreOfferings: 'Explore Offerings',
 
-    // About
-    aboutTitle: 'About the Teacher',
+    // About Page & Section
+    aboutTitle: 'About Orel',
     aboutSubtitle: 'Path & Philosophy',
+    aboutStoryLink: 'Read Orel’s Story & Philosophy',
     aboutText: 'For me, yoga is a language of deep listening. Through mindful movement, rhythmic breath, and complete presence, we learn to come home to our bodies. In my sessions, I invite practitioners into a safe, judgment-free sanctuary to softly explore boundaries and cultivate grounded stability within motion. My teaching bridges traditional roots with modern biomechanical alignment.',
+    
+    aboutHeroTag: 'My Story',
+    aboutHeroTitle: 'Finding Healing and Sanctuary Within the Body',
+    aboutHeroSubtitle: 'A journey of recovery from physical injury, somatic listening, and discovering lasting inner peace through yoga.',
+    
+    storyHeading: 'The Path to Recovery: From Pain to Discovery',
+    storyP1: 'A few years ago, following a severe physical injury, I was confronted with an unfamiliar reality where my body — which had always been my vessel of freedom and expression — became restricted, painful, and fragile. Everyday movements became daunting hurdles, and feelings of frustration, fear, and vulnerability threatened to take over.',
+    storyP2: 'It was within that profound crisis that I turned to yoga — not as an athletic pursuit or competitive discipline, but as a somatic lifeline and a sacred space of authentic listening. I learned to set aside ambition and ego, moving only with deep reverence for my body’s boundaries. Slow mindful pacing, exact anatomical alignment, and conscious breathwork gradually opened new pathways of cellular healing, rebuilding spinal resilience and restoring the nervous system.',
+    storyP3: 'Yoga did not merely rehabilitate my physical injury; it completely transformed how I relate to myself and the world. It taught me that when we stop warring with our bodies and instead listen with gentle compassion, the body possesses an extraordinary capacity to regenerate and thrive.',
+    
+    philosophyHeading: 'Teaching Philosophy',
+    philosophyP1: 'I believe that no two bodies are identical, and that yoga was never meant to force a human being into the mold of a posture, but rather to adapt the practice to the unique anatomy of each person. In my teaching, I weave classical yogic tradition (Asana, Pranayama, and Meditation) with contemporary biomechanics and functional injury prevention.',
+    philosophyP2: 'In every session — whether a personalized 1-on-1 private practice or a communal workshop — my intention is to cultivate a nurturing, non-judgmental container where you can breathe deeply, release chronic tension, and build authentic physical resilience and mental serenity that carry into daily life.',
+
+    aboutImagePlaceholder: 'Portrait of Orel Tako',
+    aboutImageHint: 'Dedicated space for profile / teacher photo',
 
     // Teaching Styles
     vinyasaTitle: 'Mindful Vinyasa',
