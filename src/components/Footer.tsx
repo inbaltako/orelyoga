@@ -12,15 +12,14 @@ export const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 items-start">
           
           {/* Brand Info */}
-          <div className="flex flex-col gap-4 text-start">
+          <div className="flex flex-col gap-4 text-right items-start rtl:items-start">
             <Link
               to="/"
-              className="font-display text-2xl text-primary font-medium tracking-tight"
-              dir="ltr"
+              className="font-display text-2xl text-primary font-medium tracking-tight text-right w-full block"
             >
               Orel Tako Yoga
             </Link>
-            <p className="text-body-md text-on-surface-variant max-w-sm leading-relaxed">
+            <p className="text-body-md text-on-surface-variant max-w-sm leading-relaxed text-right">
               {t('tagline')}
             </p>
           </div>
