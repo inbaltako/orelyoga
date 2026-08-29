@@ -451,15 +451,9 @@ export const PrivateSessions: React.FC = () => {
 
           <div className="flex flex-col justify-center px-4 lg:px-8 text-start">
             <span className="material-symbols-outlined text-secondary text-[36px] mb-6">format_quote</span>
-            <blockquote className="font-display text-headline-md text-on-surface leading-relaxed mb-6">
+            <blockquote className="font-display text-headline-md text-on-surface leading-relaxed">
               {t('quoteText')}
             </blockquote>
-            <div className="flex items-center gap-3">
-              <span className="w-8 h-[1px] bg-primary"></span>
-              <span className="font-display text-base font-semibold text-primary" dir="ltr">
-                Orel Tako
-              </span>
-            </div>
           </div>
         </div>
       </section>
