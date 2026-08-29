@@ -71,6 +71,7 @@ export default {
         'margin-desktop': '2.5rem',
       },
       fontFamily: {
+        brand: ['"Allura"', 'cursive'],
         display: ['"Playfair Display"', 'serif'],
         headline: ['"Playfair Display"', 'serif'],
         body: ['"Inter"', '"Assistant"', 'sans-serif'],

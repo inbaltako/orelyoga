@@ -106,7 +106,7 @@ export const Header: React.FC = () => {
             className="flex flex-col items-end group"
           >
             <span
-              className="font-display text-xl sm:text-2xl text-primary font-medium tracking-tight leading-none group-hover:text-primary-container transition-colors"
+              className="font-brand text-3xl sm:text-4xl text-primary font-normal tracking-wide leading-none group-hover:text-primary-container transition-colors"
               dir="ltr"
             >
               Orel Tako Yoga

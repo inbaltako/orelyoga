@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
           <div className="flex flex-col gap-4 text-right items-start rtl:items-start">
             <Link
               to="/"
-              className="font-display text-2xl text-primary font-medium tracking-tight text-right w-full block"
+              className="font-brand text-4xl sm:text-5xl text-primary font-normal tracking-wide text-right w-full block hover:text-primary-container transition-colors"
             >
               Orel Tako Yoga
             </Link>
